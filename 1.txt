@@ -1,4 +1,9 @@
 
+// update facute online
+// comnda pe pc
+git pull 
+
+
 
 //update modificari facute pe pc
 git commit -a
