@@ -1,5 +1,10 @@
 
 
+//update modificari facute pe pc
+git commit -a
+mesaj
+git push
+
 test update
 test file
 
