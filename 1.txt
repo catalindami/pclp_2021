@@ -1,3 +1,5 @@
+student
+
 
 // update facute online
 // comnda pe pc
