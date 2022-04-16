@@ -22,7 +22,7 @@ int main(){
 	adaugaLa(1, 5);
 	afisare();
 
-	adaugaLa(0, 6);
+	adaugaLa(8, 6);
 	afisare();
 
 	return 0;
